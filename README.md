@@ -1,7 +1,7 @@
 <h1> ⚔️ Setup Termux 🚀 </h1>
 apt update  <br>
 apt upgrade <br>
-pkg install git  <br>
+pkg install wget  <br>
 pkg install python <br>
 <h1>⚔️ Install Module 🚀</h1>
 <p>pip install unzip <br>
