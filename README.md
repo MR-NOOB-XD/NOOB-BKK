@@ -10,7 +10,7 @@ pip install requests </p>
 <p>
  $ wget https://raw.githubusercontent.com/nbprg/YesCoin/refs/heads/main/YesCoin.zip <br>
  $ unzip YesCoin.zip <br>
- $ cd YesCoin 
+ $ cd YesCoin <br>
  $ python login.py
  <p> Note : For Multiple open `login_links.txt` & put link 1 by 1 then run `python main.py`</p>
 </p>
