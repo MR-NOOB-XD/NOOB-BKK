@@ -5,7 +5,11 @@ pkg install wget  <br>
 pkg install python <br>
 <h1>⚔️ Install Module 🚀</h1>
 <p>pip install unzip <br>
-pip install requests </p>
+pip install requests </p> 
+<h1>⚔️ Command For Termux</h1> 
+<p>
+  
+</p>
 <h1>⚔️ Contact ⚔️</h1>
 🚀 <a href='https://t.me/cryp2xyz'>Telegram Channel</a> 
 <br>
