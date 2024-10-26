@@ -8,9 +8,9 @@ pkg install python <br>
 pip install requests </p> 
 <h1>⚔️ Command For Termux</h1> 
 <p>
- $ git clone --depth=1 https://github.com/nbprg/YesCoin<br>
- $ cd YesCoin <br>
- $ unzip YesCoin.zip 
+ $ wget https://github.com/nbprg/YesCoin/blob/main/YesCoin.zip <br>
+ $ unzip YesCoin.zip <br>
+ $ cd YesCoin
  <p> Note : Edit `login_links.txt` then run `python main.py`</p>
 </p>
 <h1>⚔️ Contact ⚔️</h1>
